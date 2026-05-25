@@ -40,7 +40,7 @@ Mars-mission ready.
 |---|---|---|
 | 🔐 **Secure Login** | Access Control | Local authentication — no cloud |
 | 📡 **Live Vitals** | Bio-Telemetry Stream | Real-time physiological monitoring |
-| 🧠 **AI Decision** | XAI — White-Box CDSS | VitalX Core V1 predictions |
+| 🧠 **AI Decision** | XAI — White-Box CDSS | VITALX CORE V1 predictions |
 | 💾 **Data Records** | OBDH | Local SQLite telemetry vault |
 | ⚙️ **System Health** | BITE | CPU, RAM, model integrity check |
 | 📖 **User Manual** | Mission Ops Guide | Complete operational guide |
