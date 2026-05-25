@@ -1,0 +1,123 @@
+/* ============================================
+   AstroVital CC V1 — Mission Control CSS
+   Developer: Gouragopal Mohapatra
+   © 2026 Gouragopal Mohapatra
+   ============================================ */
+
+:root {
+    --space-black:  #0B0F1A;
+    --space-blue:   #1A2B5F;
+    --accent-cyan:  #00C8FF;
+    --accent-gold:  #FFD700;
+    --accent-green: #00E676;
+    --accent-yellow:#FFD700;
+    --accent-red:   #FF4444;
+    --text-white:   #FFFFFF;
+    --text-gray:    #A0AEC0;
+}
+
+/* Global */
+* {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.stApp {
+    background-color: var(--space-black);
+    background-image:
+        radial-gradient(ellipse at 20% 50%,
+            rgba(0, 200, 255, 0.05) 0%,
+            transparent 60%),
+        radial-gradient(ellipse at 80% 20%,
+            rgba(26, 43, 95, 0.3) 0%,
+            transparent 60%);
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: linear-gradient(
+        180deg,
+        #0B0F1A 0%,
+        #1A2B5F 100%
+    );
+    border-right: 1px solid var(--accent-cyan);
+}
+
+/* Headers */
+h1, h2, h3 {
+    font-family: 'Orbitron', monospace !important;
+    color: var(--accent-gold) !important;
+    letter-spacing: 2px;
+}
+
+/* Metrics */
+[data-testid="metric-container"] {
+    background: rgba(26, 43, 95, 0.4);
+    border: 1px solid var(--accent-cyan);
+    border-radius: 8px;
+    padding: 12px;
+}
+
+/* Buttons */
+.stButton > button {
+    background: transparent;
+    border: 1px solid var(--accent-cyan);
+    color: var(--accent-cyan);
+    font-family: 'Orbitron', monospace;
+    letter-spacing: 2px;
+    transition: all 0.3s ease;
+}
+.stButton > button:hover {
+    background: var(--accent-cyan);
+    color: var(--space-black);
+}
+
+/* Status badges */
+.status-green {
+    background: rgba(0, 230, 118, 0.15);
+    border: 1px solid #00E676;
+    color: #00E676;
+    padding: 4px 12px;
+    border-radius: 4px;
+    font-family: 'Orbitron', monospace;
+    font-size: 12px;
+}
+.status-yellow {
+    background: rgba(255, 215, 0, 0.15);
+    border: 1px solid #FFD700;
+    color: #FFD700;
+    padding: 4px 12px;
+    border-radius: 4px;
+    font-family: 'Orbitron', monospace;
+    font-size: 12px;
+}
+.status-red {
+    background: rgba(255, 68, 68, 0.15);
+    border: 1px solid #FF4444;
+    color: #FF4444;
+    padding: 4px 12px;
+    border-radius: 4px;
+    font-family: 'Orbitron', monospace;
+    font-size: 12px;
+    animation: pulse 1.5s infinite;
+}
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0.5; }
+}
+
+/* Divider */
+hr {
+    border-color: var(--accent-cyan);
+    opacity: 0.3;
+}
+
+/* Copyright footer */
+.footer {
+    text-align: center;
+    color: var(--text-gray);
+    font-size: 11px;
+    font-family: 'Rajdhani', sans-serif;
+    padding: 10px;
+    border-top: 1px solid rgba(0,200,255,0.2);
+    margin-top: 20px;
+}
