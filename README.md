@@ -151,8 +151,8 @@ spaceflight research papers.
 ---
 
 ## Copyright
-© 2026 Gouragopal Mohapatra — All Rights Reserved
-AstroVital JCC V1.0 — Independent Research — India
+© 2026 Gouragopal Mohapatra — All Rights Reserved  
+ASTROVITAL CC V1 — Independent Research — India  
 Unauthorized use strictly prohibited under
 Indian Copyright Act, 1957.
 
