@@ -2,8 +2,8 @@
 
 <img src="assets/icons/astro_logo.jpeg" width="200"/>
 
-# ASTROVITAL CC V1
-### Jagannath Command Center · Edge-Deployed CDSS
+# ***ASTROVITAL CC V1***
+### COMMAND CENTER OF VITAX CORE V1 · Edge-Deployed CDSS
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](.)
 [![Python](https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=python)](.)
