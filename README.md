@@ -61,7 +61,7 @@ Mars-mission ready.
 ---
 
 ## Project Structure
-ASTROVITAL_JCC_V1/
+ASTROVITAL_CC_V1/
 ├── app.py
 ├── requirements.txt
 ├── .streamlit/
