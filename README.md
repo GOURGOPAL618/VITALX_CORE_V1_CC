@@ -6,7 +6,7 @@
 ### Jagannath Command Center · Edge-Deployed CDSS
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](.)
-[![Python](https://img.shields.io/badge/Python-3.14-yellow?style=for-the-badge&logo=python)](.)
+[![Python](https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=python)](.)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.57-red?style=for-the-badge)](.)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
 [![Cloud](https://img.shields.io/badge/Cloud-NONE-black?style=for-the-badge)](.)
@@ -23,9 +23,9 @@
 
 ## Overview
 
-**AstroVital JCC V1.0** is a mission-critical,
+**AstroVital CC V1** is a mission-critical,
 edge-deployed Clinical Decision Support System
-built on VitalX Core V1.0 — the first working
+built on VITALX CORE V1 — the first working
 astronaut health CDSS implementation.
 
 100% offline. Zero cloud dependency.
