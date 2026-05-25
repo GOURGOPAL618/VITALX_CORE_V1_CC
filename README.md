@@ -52,9 +52,9 @@ Mars-mission ready.
 | Component | Technology |
 |---|---|
 | Frontend | Streamlit |
-| Language | Python 3.14 |
+| Language | Python 3.12 |
 | Visualization | Plotly · Matplotlib |
-| AI Engine | VitalX Core V1 |
+| AI Engine | VITALX CORE V1 |
 | Storage | SQLite · Local JSON |
 | Deployment | Edge · LAN · Standalone |
 
