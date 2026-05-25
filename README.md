@@ -141,7 +141,7 @@ http://[YOUR_IP]:8501
 
 ## Powered By
 
-This platform is powered by **VitalX Core V1.0** —
+This platform is powered by **VITALX CORE V1** —
 the first working edge-deployed CDSS for astronaut
 health monitoring, built on 12 peer-reviewed
 spaceflight research papers.
