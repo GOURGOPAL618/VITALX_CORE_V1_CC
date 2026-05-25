@@ -23,7 +23,7 @@
 
 ## Overview
 
-**AstroVital CC V1** is a mission-critical,
+**ASTROVITAL CC V1** is a mission-critical,
 edge-deployed Clinical Decision Support System
 built on VITALX CORE V1 — the first working
 astronaut health CDSS implementation.
@@ -54,7 +54,7 @@ Mars-mission ready.
 | Frontend | Streamlit |
 | Language | Python 3.14 |
 | Visualization | Plotly · Matplotlib |
-| AI Engine | VitalX Core V1.0 |
+| AI Engine | VitalX Core V1 |
 | Storage | SQLite · Local JSON |
 | Deployment | Edge · LAN · Standalone |
 
