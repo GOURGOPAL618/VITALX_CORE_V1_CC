@@ -67,10 +67,7 @@ ASTROVITAL_CC_V1/
 ├── .streamlit/
 │   └── config.toml
 ├── assets/
-│   ├── css/
-│   └── icons/
-├── interface/
-│   ├── home.py
+
 
 ---
 
