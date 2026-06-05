@@ -60,11 +60,6 @@ Mars-mission ready.
 
 ---
 
-## Project Structure
-ASTROVITAL_CC_V1/
-├── app.py
-├── requirements.txt
-
 
 ## Installation
 
