@@ -73,14 +73,7 @@ ASTROVITAL_CC_V1/
 │   ├── home.py
 │   ├── vitals.py
 │   ├── ai_decision.py
-│   ├── data_records.py
-│   ├── system_health.py
-│   └── user_manual.py
-├── core/
-├── data/
-│   └── logs/
-└── simulations/
-
+│   ├─
 ---
 
 ## Installation
