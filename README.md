@@ -64,12 +64,7 @@ Mars-mission ready.
 ASTROVITAL_CC_V1/
 ├── app.py
 ├── requirements.txt
-├── .streamlit/
-│   └── config.toml
-├── assets/
 
-
----
 
 ## Installation
 
