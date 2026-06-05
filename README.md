@@ -71,9 +71,7 @@ ASTROVITAL_CC_V1/
 │   └── icons/
 ├── interface/
 │   ├── home.py
-│   ├── vitals.py
-│   ├── ai_decision.py
-│   ├─
+
 ---
 
 ## Installation
